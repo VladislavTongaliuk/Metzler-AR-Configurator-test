@@ -6,9 +6,10 @@
     <type fullname="Bispo_Shield_Top" preserve="all" />
     <type fullname="Bounding_Box_Text" preserve="all" />
     <type fullname="Camera_Settings" preserve="all" />
-    <type fullname="Colour_Material" preserve="all" />
-    <type fullname="Colour_Materials_List" preserve="all" />
+    <type fullname="Colour" preserve="all" />
+    <type fullname="Colour_Brushed" preserve="all" />
     <type fullname="Colours" preserve="all" />
+    <type fullname="CombineMeshes" preserve="all" />
     <type fullname="Flickering_3d" preserve="all" />
     <type fullname="Fonts" preserve="all" />
     <type fullname="Hochbeet_1" preserve="all" />
@@ -34,6 +35,7 @@
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
